@@ -1,0 +1,28 @@
+First Name:ayda
+Last Name:Hassani  
+Age:23      
+Height:1.63       
+Weight:61
+BMI:22.95908765854944
+
+First Name:Ali
+Last Name:Ashrafi  
+Age:27      
+Height:1.84       
+Weight:82
+BMI:24.22022684310019
+
+First Name:Maral
+Last Name:Mousavi  
+Age:30      
+Height:1.68       
+Weight:59
+BMI:20.9
+
+First Name:Aseman
+Last Name:Pormokhtar  
+Age:29      
+Height:170.0       
+Weight:65
+BMI:0.0
+
